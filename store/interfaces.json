@@ -1,0 +1,8 @@
+{
+  "institutional-page": {
+    "component": "InstitutionalPage"
+  },
+  "store.home.custom": {
+    "allowed": ["institutional-page"]
+  }
+}
